@@ -1,0 +1,10 @@
+{
+  "front": {
+    "src": {
+      "sass": "public/assets/sass/**/*.scss"
+    },
+    "dest": {
+      "sass": "public/assets/css"
+    }
+  }
+}
