@@ -4,13 +4,12 @@
 A little example that use gulp to compile sass and reload browser.
 
 ## Installation
-Clone project:
-
-
-after clone repository, run:
+Clone and after clone repository, run inside project folder:
 $ npm install
 
 ## API Reference
+requires NPM and gulp.
+
 Run in terminal:
 $ gulp
 
